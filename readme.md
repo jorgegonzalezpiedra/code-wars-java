@@ -2,7 +2,7 @@
 
 ¡Bienvenido(a) al repositorio de soluciones en Java para problemas de Code Wars!
 
-En este repositorio, encontrarás una colección de soluciones a desafíos de programación de Code Wars implementados en Java. Code Wars es una plataforma en línea que ofrece desafíos de programación en diversos lenguajes, permitiéndote mejorar tus habilidades de codificación a través de la resolución de problemas.
+En este repositorio, encontrarás una colección de soluciones a desafíos de programación de Code Wars implementados en Java. [CodeWars](https://www.codewars.com/) es una plataforma en línea que ofrece desafíos de programación en diversos lenguajes, permitiéndote mejorar tus habilidades de codificación a través de la resolución de problemas.
 
 ## Estructura del repositorio
 
